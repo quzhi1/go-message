@@ -3,7 +3,7 @@ package message
 import (
 	"mime"
 
-	"github.com/emersion/go-message/textproto"
+	"github.com/quzhi1/go-message/textproto"
 )
 
 func parseHeaderWithParams(s string) (f string, params map[string]string, err error) {

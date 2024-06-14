@@ -3,7 +3,7 @@ package textproto_test
 import (
 	"fmt"
 
-	"github.com/emersion/go-message/textproto"
+	"github.com/quzhi1/go-message/textproto"
 )
 
 func ExampleHeader() {

@@ -1,7 +1,7 @@
 package mail
 
 import (
-	"github.com/emersion/go-message"
+	"github.com/quzhi1/go-message"
 )
 
 // A InlineHeader represents a message text header.
